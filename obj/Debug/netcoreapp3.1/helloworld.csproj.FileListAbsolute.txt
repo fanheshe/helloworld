@@ -1,0 +1,11 @@
+/Users/wuyijie/Documents/GithubDemo/helloworld/bin/Debug/netcoreapp3.1/helloworld
+/Users/wuyijie/Documents/GithubDemo/helloworld/bin/Debug/netcoreapp3.1/helloworld.deps.json
+/Users/wuyijie/Documents/GithubDemo/helloworld/bin/Debug/netcoreapp3.1/helloworld.runtimeconfig.json
+/Users/wuyijie/Documents/GithubDemo/helloworld/bin/Debug/netcoreapp3.1/helloworld.runtimeconfig.dev.json
+/Users/wuyijie/Documents/GithubDemo/helloworld/bin/Debug/netcoreapp3.1/helloworld.dll
+/Users/wuyijie/Documents/GithubDemo/helloworld/bin/Debug/netcoreapp3.1/helloworld.pdb
+/Users/wuyijie/Documents/GithubDemo/helloworld/obj/Debug/netcoreapp3.1/helloworld.csprojAssemblyReference.cache
+/Users/wuyijie/Documents/GithubDemo/helloworld/obj/Debug/netcoreapp3.1/helloworld.AssemblyInfoInputs.cache
+/Users/wuyijie/Documents/GithubDemo/helloworld/obj/Debug/netcoreapp3.1/helloworld.AssemblyInfo.cs
+/Users/wuyijie/Documents/GithubDemo/helloworld/obj/Debug/netcoreapp3.1/helloworld.dll
+/Users/wuyijie/Documents/GithubDemo/helloworld/obj/Debug/netcoreapp3.1/helloworld.pdb
